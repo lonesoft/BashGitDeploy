@@ -1,0 +1,13 @@
+{
+    "name": "lonesoft/bash-git-deploy",
+    "description": "Simple deploy git projects",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lorenzo",
+            "email": "lorenzomengon@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
